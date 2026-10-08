@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识卡片制作"
+  short_description: "将文章提炼为忠于原文的知识卡片"
+  default_prompt: "使用 $make-knowledge-cards 将我提供的文章整理为知识卡片。"
